@@ -11,9 +11,9 @@ assignees: ''
 
 Simple Description [Max 200 chars].
 
-### It is a hands on session?
-### Attendee need a laptop?
-### Attendee should have some prerequisite about \<this\> topic to understand my talk?
-### Some other requirements?
+#### It is a hands on session?
+#### Attendee need a laptop?
+#### Attendee should have some prerequisite about \<this\> topic to understand my talk?
+#### Some other requirements?
 
 __Speaker/ Panel__ : \<name1\> [, \<name2\> [, ...]]
