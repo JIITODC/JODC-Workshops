@@ -4,7 +4,7 @@ A collection of previous and upcoming events by JODC.
 
 Request the community members to conduct a talk/hands-on session on any of the topics you want, open an issue like `[REQ] A session on Blockchain`.
 
-Want to host a talk session? Create an issue here following the talk-proposal issue (template)[https://github.com/JIITODC/JODC-Workshops/blob/master/.github/ISSUE_TEMPLATE/proposal.md]. We'll surely ping you.
+Want to host a talk session? Create an issue here following the talk-proposal [issue template](https://github.com/JIITODC/JODC-Workshops/blob/master/.github/ISSUE_TEMPLATE/proposal.md). We'll surely ping you.
 
 Workshops, meetups, talks, and more, oh my!
 
