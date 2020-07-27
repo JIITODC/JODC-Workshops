@@ -1,19 +1,27 @@
 ---
-name: Proposal
-about: Template to be used by person/group proposing for a Talk/ Meetup/ Workshop
-title: ''
-labels: Meetup, Talk, Workshop
-assignees: ''
+Name: Proposal
+About: Template for proposing a Talk/ Meetup/ Workshop
+Title: ''
+Labels: Meetup, Talk, Workshop
+Assignees: ''
 
 ---
 
-# Title for Talk/ Meetup/ Workshop
+## Title
 
-Simple Description [Max 200 chars].
+## Abstract[Max 200 chars]
+    A brief description about the talk.
 
-### It is a hands on session?
-### Attendee need a laptop?
-### Attendee should have some prerequisite about \<this\> topic to understand my talk?
-### Some other requirements?
+## Expected Duration
 
-__Speaker/ Panel__ : \<name1\> [, \<name2\> [, ...]]
+## Talk Type
+- [ ] Free Talk
+- [ ] Talk + Hands On 
+
+## Pre-requisites
+- [ ] Laptop
+- [ ] Previous knowledge of some topic
+
+## Speaker(s)
+- Speaker 1
+- Speaker 2
