@@ -11,7 +11,7 @@ Assignees: ''
 
 ## Abstract[Max 200 chars]
     A brief description about the talk.
-
+    
 ## Expected Duration
 
 ## Talk Type
