@@ -32,6 +32,6 @@ List of all the events conducted by JODC Community.
 | 11/10/19  | Hacktoberfest Meetup    | Hacktoberfest challenge using Git & Github                            | koderjoker           |  |
 | 04/09/19  | GNU/Linux Workshop 2    | Write and run your first Python/C++ code from the terminal.           |                      |  |
 | 02/09/19  | GNU/Linux Workshop 1    | Introduction to F/OSS with Linux.                                     | Varodek & rexagod    |  |
-| 27/08/19  | Informal Meetup         | An icebreaker session with 1st years                                  | Voluteers            |  |
+| 27/08/19  | Informal Meetup         | An icebreaker session with 1st years                                  | Volunteers            |  |
 
 ---
