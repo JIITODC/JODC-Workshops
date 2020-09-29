@@ -1,9 +1,9 @@
 ---
-name: 
-about: 
-title: 
-labels: 
-assignees: 
+name: Talk Proposal
+about: Template for making a new Talk proposal
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
